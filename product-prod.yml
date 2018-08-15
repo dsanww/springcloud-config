@@ -12,7 +12,7 @@ eureka:
 env:
   prod
 label:
-  beta
+  master
 girl:
   name: 小丽
   age : 16
