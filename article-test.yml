@@ -1,0 +1,11 @@
+boy:
+  name: liming-5556
+  age: 3334
+  profile: test
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/my_blog?useSSL=true
+    username: root
+    password: root
